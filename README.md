@@ -1,7 +1,5 @@
 # spring-boot-sample
-Sample (empty) spring-boot-application
-
-Scaffold Maven project with spring-boot. Included BOWER configuration for AngularJS and Bootstrap. Just run the following command on the base folder of the application.
+Scaffold of a Maven project with spring-boot. Included BOWER configuration for AngularJS and Bootstrap. Just run the following command on the base folder of the application.
 
     bower install
 
