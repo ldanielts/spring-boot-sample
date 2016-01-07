@@ -23,4 +23,4 @@ Write a set of JUNIT Tests to test the endpoints.
 
 ### Challenge 3:
 Write an Angular Application to show the current Greeting Message, and a form to change it. Bonus points if using IIFE. 
-Extra-bonus points for using one-way binding when showing the Greeting Message.
+Extra-bonus points for using one-time binding when showing the Greeting Message.
