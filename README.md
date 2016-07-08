@@ -24,3 +24,8 @@ Write a set of JUNIT Tests to test the endpoints.
 ### Challenge 3:
 Write an Angular Application to show the current Greeting Message, and a form to change it. Bonus points if using IIFE. 
 Extra-bonus points for using one-time binding when showing the Greeting Message.
+
+### Message from Daniel:
+I am not so used with Jersey. In fact, I am not used at all and my first thought was not accepting the first challenge.
+However, I searched for examples, searched the other contributors work and managed to get the application running.
+Once I could not get all the Jersey tests running, I left the first version of my tests (without Jersey) for any one who might be interested. And this is it.
